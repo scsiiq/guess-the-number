@@ -1,4 +1,4 @@
 # guessTheNumber
 learning javascript</br>
 a simple game of guess the number</br>
-https://scsiiq.github.io/guessTheNumber/
+https://scsiiq.github.io/guess-the-number/
